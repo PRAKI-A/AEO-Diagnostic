@@ -40,4 +40,4 @@ Enter your API keys in the sidebar. They are never stored.
 
 ## Built By
 
-Prakash S — Pixii.ai Founding Engineer Project | May 2026 
+Prakash S — Pixii.ai Founding Engineer Project | May 2026
